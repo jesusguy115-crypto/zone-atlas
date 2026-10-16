@@ -1,0 +1,4 @@
+interface:
+  display_name: "zone atlas"
+  short_description: "选择NBA或CBA球员、赛季及比赛范围，生成含个人资料和联盟效率对比的4K区域投篮图"
+  default_prompt: "使用 $zone-atlas，为我指定的NBA或CBA球员、赛季和比赛范围生成区域投篮图，缺少赛季时先给出选项。"

@@ -1,0 +1,634 @@
+[
+  {
+    "nba_id": 893,
+    "name_en": "Michael Jordan",
+    "name_zh": "迈克尔·乔丹",
+    "aliases": [
+      "乔丹",
+      "喬丹",
+      "迈克尔乔丹",
+      "麥可喬丹"
+    ],
+    "known_season_end_years": [
+      1997,
+      1998,
+      2002,
+      2003
+    ]
+  },
+  {
+    "nba_id": 2544,
+    "name_en": "LeBron James",
+    "name_zh": "勒布朗·詹姆斯",
+    "aliases": [
+      "詹姆斯",
+      "勒布朗詹姆斯",
+      "雷霸龙詹姆士",
+      "詹皇",
+      "老詹"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 977,
+    "name_en": "Kobe Bryant",
+    "name_zh": "科比·布莱恩特",
+    "aliases": [
+      "科比",
+      "柯比",
+      "高比",
+      "科比布莱恩特"
+    ],
+    "known_season_end_years": [
+      1997,
+      1998,
+      1999,
+      2000,
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010,
+      2011,
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ]
+  },
+  {
+    "nba_id": 201939,
+    "name_en": "Stephen Curry",
+    "name_zh": "斯蒂芬·库里",
+    "aliases": [
+      "库里",
+      "庫里",
+      "柯瑞",
+      "斯蒂芬库里",
+      "史蒂芬库里",
+      "Steph Curry"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 201142,
+    "name_en": "Kevin Durant",
+    "name_zh": "凯文·杜兰特",
+    "aliases": [
+      "杜兰特",
+      "杜蘭特",
+      "杜朗特",
+      "KD"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 203999,
+    "name_en": "Nikola Jokic",
+    "name_zh": "尼古拉·约基奇",
+    "aliases": [
+      "约基奇",
+      "約基奇",
+      "约老师",
+      "Nikola Jokić"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1629029,
+    "name_en": "Luka Doncic",
+    "name_zh": "卢卡·东契奇",
+    "aliases": [
+      "东契奇",
+      "東契奇",
+      "唐西奇",
+      "Luka Dončić"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 203507,
+    "name_en": "Giannis Antetokounmpo",
+    "name_zh": "扬尼斯·阿德托昆博",
+    "aliases": [
+      "字母哥",
+      "阿德托昆博",
+      "扬尼斯阿德托昆博"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1628369,
+    "name_en": "Jayson Tatum",
+    "name_zh": "杰森·塔图姆",
+    "aliases": [
+      "塔图姆",
+      "塔圖姆",
+      "塔特姆"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 203954,
+    "name_en": "Joel Embiid",
+    "name_zh": "乔尔·恩比德",
+    "aliases": [
+      "恩比德",
+      "恩比徳",
+      "安比德"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 203076,
+    "name_en": "Anthony Davis",
+    "name_zh": "安东尼·戴维斯",
+    "aliases": [
+      "戴维斯",
+      "安東尼戴維斯",
+      "浓眉",
+      "浓眉哥",
+      "AD"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 201935,
+    "name_en": "James Harden",
+    "name_zh": "詹姆斯·哈登",
+    "aliases": [
+      "哈登",
+      "大胡子"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 201566,
+    "name_en": "Russell Westbrook",
+    "name_zh": "拉塞尔·威斯布鲁克",
+    "aliases": [
+      "威斯布鲁克",
+      "威少",
+      "卫斯布鲁克",
+      "Westbrook"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 202695,
+    "name_en": "Kawhi Leonard",
+    "name_zh": "科怀·伦纳德",
+    "aliases": [
+      "伦纳德",
+      "雷纳德",
+      "莱昂纳德",
+      "可爱"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 202681,
+    "name_en": "Kyrie Irving",
+    "name_zh": "凯里·欧文",
+    "aliases": [
+      "欧文",
+      "厄文",
+      "歐文"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 203081,
+    "name_en": "Damian Lillard",
+    "name_zh": "达米安·利拉德",
+    "aliases": [
+      "利拉德",
+      "里拉德"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1628983,
+    "name_en": "Shai Gilgeous-Alexander",
+    "name_zh": "谢伊·吉尔杰斯-亚历山大",
+    "aliases": [
+      "亚历山大",
+      "SGA",
+      "谢伊",
+      "吉尔杰斯亚历山大"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1641705,
+    "name_en": "Victor Wembanyama",
+    "name_zh": "维克托·文班亚马",
+    "aliases": [
+      "文班亚马",
+      "文班亞馬",
+      "文班"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1630162,
+    "name_en": "Anthony Edwards",
+    "name_zh": "安东尼·爱德华兹",
+    "aliases": [
+      "爱德华兹",
+      "愛德華茲",
+      "华子",
+      "蚁人"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1626164,
+    "name_en": "Devin Booker",
+    "name_zh": "德文·布克",
+    "aliases": [
+      "布克"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 202710,
+    "name_en": "Jimmy Butler",
+    "name_zh": "吉米·巴特勒",
+    "aliases": [
+      "巴特勒",
+      "吉米巴特勒"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 202331,
+    "name_en": "Paul George",
+    "name_zh": "保罗·乔治",
+    "aliases": [
+      "保罗乔治",
+      "保羅喬治",
+      "乔治",
+      "PG13"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 101108,
+    "name_en": "Chris Paul",
+    "name_zh": "克里斯·保罗",
+    "aliases": [
+      "克里斯保罗",
+      "保罗",
+      "CP3"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1629027,
+    "name_en": "Trae Young",
+    "name_zh": "特雷·杨",
+    "aliases": [
+      "特雷杨",
+      "特雷楊",
+      "吹杨"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1629630,
+    "name_en": "Ja Morant",
+    "name_zh": "贾·莫兰特",
+    "aliases": [
+      "莫兰特",
+      "莫蘭特"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1628973,
+    "name_en": "Jalen Brunson",
+    "name_zh": "杰伦·布伦森",
+    "aliases": [
+      "布伦森",
+      "布朗森"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1627759,
+    "name_en": "Jaylen Brown",
+    "name_zh": "杰伦·布朗",
+    "aliases": [
+      "杰伦布朗",
+      "杰倫布朗"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1626157,
+    "name_en": "Karl-Anthony Towns",
+    "name_zh": "卡尔-安东尼·唐斯",
+    "aliases": [
+      "唐斯",
+      "卡尔安东尼唐斯"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1627734,
+    "name_en": "Domantas Sabonis",
+    "name_zh": "多曼塔斯·萨博尼斯",
+    "aliases": [
+      "小萨博尼斯",
+      "萨博尼斯",
+      "小萨"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1630169,
+    "name_en": "Tyrese Haliburton",
+    "name_zh": "泰雷斯·哈利伯顿",
+    "aliases": [
+      "哈利伯顿",
+      "哈利伯頓"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1628389,
+    "name_en": "Bam Adebayo",
+    "name_zh": "巴姆·阿德巴约",
+    "aliases": [
+      "阿德巴约",
+      "阿德巴約"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1631096,
+    "name_en": "Chet Holmgren",
+    "name_zh": "切特·霍姆格伦",
+    "aliases": [
+      "霍姆格伦",
+      "霍姆格倫",
+      "切特"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1630578,
+    "name_en": "Alperen Sengun",
+    "name_zh": "阿尔佩伦·申京",
+    "aliases": [
+      "申京",
+      "申经",
+      "Alperen Şengün"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1629627,
+    "name_en": "Zion Williamson",
+    "name_zh": "锡安·威廉森",
+    "aliases": [
+      "锡安",
+      "錫安",
+      "蔡恩威廉森"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1631094,
+    "name_en": "Paolo Banchero",
+    "name_zh": "保罗·班凯罗",
+    "aliases": [
+      "班凯罗",
+      "班凱羅"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 203110,
+    "name_en": "Draymond Green",
+    "name_zh": "德雷蒙德·格林",
+    "aliases": [
+      "追梦格林",
+      "追梦",
+      "德雷蒙德格林"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 202691,
+    "name_en": "Klay Thompson",
+    "name_zh": "克莱·汤普森",
+    "aliases": [
+      "克莱",
+      "克萊",
+      "克莱汤普森",
+      "汤神"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 2397,
+    "name_en": "Yao Ming",
+    "name_zh": "姚明",
+    "aliases": [
+      "大姚"
+    ],
+    "known_season_end_years": [
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2011
+    ]
+  },
+  {
+    "nba_id": 406,
+    "name_en": "Shaquille O'Neal",
+    "name_zh": "沙奎尔·奥尼尔",
+    "aliases": [
+      "奥尼尔",
+      "歐尼爾",
+      "沙克",
+      "Shaq"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 947,
+    "name_en": "Allen Iverson",
+    "name_zh": "阿伦·艾弗森",
+    "aliases": [
+      "艾弗森",
+      "艾佛森",
+      "AI"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1503,
+    "name_en": "Tracy McGrady",
+    "name_zh": "特雷西·麦克格雷迪",
+    "aliases": [
+      "麦迪",
+      "麥迪",
+      "麦克格雷迪",
+      "T-Mac"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1495,
+    "name_en": "Tim Duncan",
+    "name_zh": "蒂姆·邓肯",
+    "aliases": [
+      "邓肯",
+      "鄧肯",
+      "石佛"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 708,
+    "name_en": "Kevin Garnett",
+    "name_zh": "凯文·加内特",
+    "aliases": [
+      "加内特",
+      "加內特",
+      "KG"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1717,
+    "name_en": "Dirk Nowitzki",
+    "name_zh": "德克·诺维茨基",
+    "aliases": [
+      "诺维茨基",
+      "諾維茨基",
+      "司机",
+      "Dirk Nowitzki"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 2548,
+    "name_en": "Dwyane Wade",
+    "name_zh": "德维恩·韦德",
+    "aliases": [
+      "韦德",
+      "韋德",
+      "闪电侠"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1713,
+    "name_en": "Vince Carter",
+    "name_zh": "文斯·卡特",
+    "aliases": [
+      "卡特",
+      "文斯卡特"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1718,
+    "name_en": "Paul Pierce",
+    "name_zh": "保罗·皮尔斯",
+    "aliases": [
+      "皮尔斯",
+      "皮爾斯"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 959,
+    "name_en": "Steve Nash",
+    "name_zh": "史蒂夫·纳什",
+    "aliases": [
+      "纳什",
+      "納什"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 951,
+    "name_en": "Ray Allen",
+    "name_zh": "雷·阿伦",
+    "aliases": [
+      "雷阿伦",
+      "雷艾伦",
+      "雷阿倫"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 1938,
+    "name_en": "Manu Ginobili",
+    "name_zh": "马努·吉诺比利",
+    "aliases": [
+      "吉诺比利",
+      "吉諾比利",
+      "马努",
+      "Manu Ginóbili"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 2225,
+    "name_en": "Tony Parker",
+    "name_zh": "托尼·帕克",
+    "aliases": [
+      "帕克",
+      "托尼帕克"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 2547,
+    "name_en": "Chris Bosh",
+    "name_zh": "克里斯·波什",
+    "aliases": [
+      "波什",
+      "波許"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 2730,
+    "name_en": "Dwight Howard",
+    "name_zh": "德怀特·霍华德",
+    "aliases": [
+      "霍华德",
+      "霍華德",
+      "魔兽"
+    ],
+    "known_season_end_years": null
+  },
+  {
+    "nba_id": 2546,
+    "name_en": "Carmelo Anthony",
+    "name_zh": "卡梅隆·安东尼",
+    "aliases": [
+      "卡梅隆安东尼",
+      "甜瓜",
+      "卡梅罗安东尼"
+    ],
+    "known_season_end_years": null
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "game_id": "0042500171",
+    "game_date": "2026-04-18",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500172",
+    "game_date": "2026-04-21",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500173",
+    "game_date": "2026-04-24",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500174",
+    "game_date": "2026-04-26",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500175",
+    "game_date": "2026-04-29",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500176",
+    "game_date": "2026-05-01",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500221",
+    "game_date": "2026-05-05",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500222",
+    "game_date": "2026-05-07",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500223",
+    "game_date": "2026-05-09",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  },
+  {
+    "game_id": "0042500224",
+    "game_date": "2026-05-11",
+    "person_id": 2544,
+    "season": 2026,
+    "season_type_id": "4",
+    "played": true
+  }
+]

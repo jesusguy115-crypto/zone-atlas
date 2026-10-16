@@ -1,0 +1,184 @@
+﻿game_id,season,season_type_id,period,clock,team_id,team_tricode,person_id,player_name,action_type,sub_type,shot_result,shot_value,shot_distance,x_legacy,y_legacy,description,score_home,score_away,game_date
+0042500171,2026,4,1,PT09M24.00S,1610612747,LAL,2544,James,Made Shot,Step Back Jump shot,Made,2,22,-97,196,L. James 22' Step Back Jump Shot (2 PTS),8,4,2026-04-18
+0042500171,2026,4,1,PT08M04.00S,1610612747,LAL,2544,James,Made Shot,Fadeaway Jump Shot,Made,2,13,129,17,L. James 13' Fadeaway Jumper (4 PTS) (Smart 3 AST),12,7,2026-04-18
+0042500171,2026,4,1,PT00M01.90S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,10,-39,97,MISS L. James 10' Turnaround Fadeaway Shot,,,2026-04-18
+0042500171,2026,4,2,PT11M11.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,2,22,109,186,L. James 22' Jump Shot (6 PTS),35,29,2026-04-18
+0042500171,2026,4,2,PT09M38.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,11,-18,104,MISS L. James 11' Driving Floating Jump Shot,,,2026-04-18
+0042500171,2026,4,2,PT09M00.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,7,-9,65,MISS L. James 7' Driving Floating Jump Shot,,,2026-04-18
+0042500171,2026,4,2,PT00M31.40S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,28,145,239,MISS L. James 28' 3PT Jump Shot,,,2026-04-18
+0042500171,2026,4,3,PT09M55.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Bank shot,Made,2,2,1,16,L. James 2' Turnaround Bank Shot (8 PTS),54,51,2026-04-18
+0042500171,2026,4,3,PT05M52.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Bank Hook Shot,Made,2,1,-2,14,L. James 1' Turnaround Bank Hook Shot (10 PTS),62,56,2026-04-18
+0042500171,2026,4,3,PT04M37.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,16,110,114,MISS L. James 16' Turnaround Fadeaway Shot,,,2026-04-18
+0042500171,2026,4,4,PT08M21.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,3,28,4,275,L. James 28' 3PT Pullup Jump Shot (13 PTS),85,72,2026-04-18
+0042500171,2026,4,4,PT04M43.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Hook Shot,Made,2,7,53,42,L. James 7' Turnaround Hook Shot (15 PTS),96,80,2026-04-18
+0042500171,2026,4,4,PT04M13.00S,1610612747,LAL,2544,James,Missed Shot,Driving Hook Shot,Missed,2,6,17,58,MISS L. James 6' Driving Hook Shot,,,2026-04-18
+0042500171,2026,4,4,PT02M57.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Fadeaway shot,Made,2,9,-82,40,L. James 9' Turnaround Fadeaway (17 PTS),98,84,2026-04-18
+0042500171,2026,4,4,PT00M42.10S,1610612747,LAL,2544,James,Made Shot,Cutting Finger Roll Layup Shot,Made,2,3,21,14,L. James 3' Cutting Finger Roll Layup Shot (19 PTS) (Kennard 3 AST),107,96,2026-04-18
+0042500172,2026,4,1,PT10M37.00S,1610612747,LAL,2544,James,Made Shot,Running Finger Roll Layup Shot,Made,2,1,-4,12,L. James 1' Running Finger Roll Layup (2 PTS),2,3,2026-04-21
+0042500172,2026,4,1,PT06M40.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,30,-114,273,MISS L. James 30' 3PT Jump Shot,,,2026-04-21
+0042500172,2026,4,1,PT04M14.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Fadeaway shot,Made,2,16,-152,47,L. James 16' Turnaround Fadeaway (5 PTS),19,20,2026-04-21
+0042500172,2026,4,2,PT11M28.00S,1610612747,LAL,2544,James,Made Shot,Running Pull-Up Jump Shot,Made,3,28,-26,274,L. James 28' 3PT Running Pull-Up Jump Shot (9 PTS),36,26,2026-04-21
+0042500172,2026,4,2,PT10M46.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,3,28,22,275,L. James 28' 3PT Jump Shot (12 PTS),39,26,2026-04-21
+0042500172,2026,4,2,PT07M52.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,28,127,253,MISS L. James 28' 3PT Jump Shot,,,2026-04-21
+0042500172,2026,4,2,PT02M26.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,2,21,-162,136,MISS L. James 21' Jump Shot,,,2026-04-21
+0042500172,2026,4,2,PT00M53.10S,1610612747,LAL,2544,James,Missed Shot,Turnaround Jump Shot,Missed,2,14,-70,125,MISS L. James 14' Turnaround Jump Shot,,,2026-04-21
+0042500172,2026,4,2,PT00M31.60S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,16,-92,127,MISS L. James 16' Turnaround Fadeaway Shot,,,2026-04-21
+0042500172,2026,4,2,PT00M10.60S,1610612747,LAL,2544,James,Missed Shot,Turnaround Hook Shot,Missed,2,10,-36,89,MISS L. James 10' Turnaround Hook Shot,,,2026-04-21
+0042500172,2026,4,3,PT07M57.00S,1610612747,LAL,2544,James,Made Shot,Driving Reverse Dunk Shot,Made,2,1,-6,6,L. James 1' Driving Reverse Dunk Shot (17 PTS) (Smart 4 AST),62,57,2026-04-21
+0042500172,2026,4,3,PT05M51.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,5,47,15,MISS L. James 5' Driving Floating Jump Shot,,,2026-04-21
+0042500172,2026,4,3,PT00M50.20S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,27,-150,225,MISS L. James 27' 3PT Jump Shot,,,2026-04-21
+0042500172,2026,4,3,PT00M33.70S,1610612747,LAL,2544,James,Missed Shot,Running Reverse Layup Shot,Missed,2,4,-37,10,MISS L. James 4' Running Reverse Layup,,,2026-04-21
+0042500172,2026,4,4,PT09M07.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,5,39,36,MISS L. James 5' Driving Layup,,,2026-04-21
+0042500172,2026,4,4,PT09M05.00S,1610612747,LAL,2544,James,Made Shot,Putback Layup Shot,Made,2,0,0,0,L. James Putback Layup (21 PTS),82,75,2026-04-21
+0042500172,2026,4,4,PT07M28.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,9,65,62,MISS L. James 9' Turnaround Fadeaway Shot,,,2026-04-21
+0042500172,2026,4,4,PT06M09.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,1,-13,5,L. James 1' Driving Layup (24 PTS),87,82,2026-04-21
+0042500172,2026,4,4,PT01M19.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway Bank Jump Shot,Missed,2,16,-152,35,MISS L. James 16' Turnaround Fadeaway Bank Jump Shot,,,2026-04-21
+0042500172,2026,4,4,PT00M55.30S,1610612747,LAL,2544,James,Made Shot,Cutting Dunk Shot,Made,2,0,-2,3,L. James Cutting Dunk Shot (28 PTS) (Smart 7 AST),99,92,2026-04-21
+0042500173,2026,4,1,PT11M05.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,3,25,45,250,L. James 25' 3PT Jump Shot (3 PTS) (Ayton 1 AST),3,6,2026-04-24
+0042500173,2026,4,1,PT05M33.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,2,-22,-2,L. James 2' Driving Layup (5 PTS) (Kennard 1 AST),19,19,2026-04-24
+0042500173,2026,4,2,PT08M42.00S,1610612747,LAL,2544,James,Made Shot,Fadeaway Bank shot,Made,2,17,-151,78,L. James 17' Fadeaway Bank Shot (9 PTS),40,47,2026-04-24
+0042500173,2026,4,2,PT06M32.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,3,25,-2,248,L. James 25' 3PT Pullup Jump Shot (12 PTS),43,55,2026-04-24
+0042500173,2026,4,2,PT06M06.00S,1610612747,LAL,2544,James,Made Shot,Cutting Finger Roll Layup Shot,Made,2,3,23,10,L. James 3' Cutting Finger Roll Layup Shot (14 PTS) (Smart 5 AST),43,57,2026-04-24
+0042500173,2026,4,2,PT04M31.00S,1610612747,LAL,2544,James,Missed Shot,Driving Finger Roll Layup Shot,Missed,2,9,67,53,MISS L. James 9' Driving Finger Roll Layup,,,2026-04-24
+0042500173,2026,4,3,PT11M14.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,11,105,16,MISS L. James 11' Turnaround Fadeaway Shot,,,2026-04-24
+0042500173,2026,4,3,PT09M19.00S,1610612747,LAL,2544,James,Missed Shot,Driving Finger Roll Layup Shot,Missed,2,6,-54,17,MISS L. James 6' Driving Finger Roll Layup,,,2026-04-24
+0042500173,2026,4,3,PT06M54.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,4,-7,39,MISS L. James 4' Driving Layup,,,2026-04-24
+0042500173,2026,4,3,PT00M59.10S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,3,28,-183,214,L. James 28' 3PT Jump Shot (20 PTS) (Smart 8 AST),71,78,2026-04-24
+0042500173,2026,4,3,PT00M02.60S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,33,-183,277,MISS L. James 33' 3PT Pullup Jump Shot,,,2026-04-24
+0042500173,2026,4,4,PT11M35.00S,1610612747,LAL,2544,James,Made Shot,Cutting Finger Roll Layup Shot,Made,2,3,25,13,L. James 3' Cutting Finger Roll Layup Shot (22 PTS) (Vanderbilt 1 AST),75,82,2026-04-24
+0042500173,2026,4,4,PT08M47.00S,1610612747,LAL,2544,James,Missed Shot,Fadeaway Jump Shot,Missed,2,18,119,136,MISS L. James 18' Fadeaway Jumper,,,2026-04-24
+0042500173,2026,4,4,PT07M10.00S,1610612747,LAL,2544,James,Made Shot,Driving Finger Roll Layup Shot,Made,2,3,-15,21,L. James 3' Driving Finger Roll Layup (24 PTS),83,87,2026-04-24
+0042500173,2026,4,4,PT03M22.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,14,-26,134,MISS L. James 14' Turnaround Fadeaway Shot,,,2026-04-24
+0042500173,2026,4,4,PT02M11.00S,1610612747,LAL,2544,James,Made Shot,Alley Oop Dunk Shot,Made,2,2,17,13,L. James 2' Alley Oop Dunk (26 PTS) (Smart 10 AST),97,95,2026-04-24
+0042500173,2026,4,4,PT00M36.40S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,27,-147,227,MISS L. James 27' 3PT Pullup Jump Shot,,,2026-04-24
+0042500173,2026,4,4,PT00M13.60S,1610612747,LAL,2544,James,Made Shot,Running Jump Shot,Made,3,25,214,125,L. James 25' 3PT Running Jump Shot (29 PTS) (Kennard 6 AST),101,101,2026-04-24
+0042500173,2026,4,4,PT00M00.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,3,26,-188,186,MISS L. James 26' 3PT Turnaround Fadeaway Shot,,,2026-04-24
+0042500173,2026,4,5,PT02M54.00S,1610612747,LAL,2544,James,Missed Shot,Step Back Jump shot,Missed,3,26,-154,214,MISS L. James 26' 3PT Step Back Jump Shot,,,2026-04-24
+0042500173,2026,4,5,PT01M39.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,5,-34,37,MISS L. James 5' Driving Layup,,,2026-04-24
+0042500173,2026,4,5,PT00M53.90S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,27,-1,267,MISS L. James 27' 3PT Jump Shot,,,2026-04-24
+0042500174,2026,4,1,PT07M33.00S,1610612747,LAL,2544,James,Made Shot,Driving Floating Bank Jump Shot,Made,2,8,-74,40,L. James 8' Driving Floating Bank Jump Shot (2 PTS),4,9,2026-04-26
+0042500174,2026,4,2,PT09M31.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,19,-194,1,MISS L. James 19' Turnaround Fadeaway Shot,,,2026-04-26
+0042500174,2026,4,2,PT07M29.00S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,29,20,290,MISS L. James 29' 3PT Pullup Jump Shot,,,2026-04-26
+0042500174,2026,4,2,PT07M14.00S,1610612747,LAL,2544,James,Missed Shot,Step Back Jump shot,Missed,3,23,-232,6,MISS L. James 3PT Step Back Jump Shot,,,2026-04-26
+0042500174,2026,4,3,PT11M16.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,8,67,44,MISS L. James 8' Driving Layup,,,2026-04-26
+0042500174,2026,4,3,PT08M02.00S,1610612747,LAL,2544,James,Missed Shot,Driving Reverse Layup Shot,Missed,2,4,34,16,MISS L. James 4' Driving Reverse Layup,,,2026-04-26
+0042500174,2026,4,3,PT01M06.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,2,-11,17,MISS L. James 2' Driving Layup,,,2026-04-26
+0042500174,2026,4,4,PT11M46.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,29,-157,248,MISS L. James 29' 3PT Jump Shot,,,2026-04-26
+0042500174,2026,4,4,PT08M36.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,10,93,36,L. James 10' Driving Layup (10 PTS) (Smart 4 AST),97,73,2026-04-26
+0042500175,2026,4,1,PT08M49.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,28,-108,263,MISS L. James 28' 3PT Jump Shot,,,2026-04-29
+0042500175,2026,4,1,PT06M55.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,5,9,48,MISS L. James 5' Driving Layup,,,2026-04-29
+0042500175,2026,4,1,PT01M06.00S,1610612747,LAL,2544,James,Made Shot,Driving Reverse Layup Shot,Made,2,2,11,16,L. James 2' Driving Reverse Layup (2 PTS) (LaRavia 1 AST),26,15,2026-04-29
+0042500175,2026,4,1,PT00M33.50S,1610612747,LAL,2544,James,Made Shot,Alley Oop Layup shot,Made,2,3,-23,26,L. James 3' Alley Oop Layup (4 PTS) (Reaves 2 AST),28,18,2026-04-29
+0042500175,2026,4,1,PT00M01.80S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,27,108,246,MISS L. James 27' 3PT Jump Shot,,,2026-04-29
+0042500175,2026,4,2,PT11M24.00S,1610612747,LAL,2544,James,Missed Shot,Fadeaway Jump Shot,Missed,2,18,-167,73,MISS L. James 18' Fadeaway Jumper,,,2026-04-29
+0042500175,2026,4,2,PT09M42.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,26,222,128,MISS L. James 26' 3PT Jump Shot,,,2026-04-29
+0042500175,2026,4,2,PT08M52.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,2,16,-21,162,L. James 16' Jump Shot (6 PTS) (Reaves 4 AST),32,27,2026-04-29
+0042500175,2026,4,3,PT09M18.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,2,19,185,53,MISS L. James 19' Jump Shot,,,2026-04-29
+0042500175,2026,4,3,PT08M28.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Jump Shot,Made,2,7,64,37,L. James 7' Turnaround Jump Shot (10 PTS),53,60,2026-04-29
+0042500175,2026,4,3,PT05M39.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,2,16,104,115,L. James 16' Pullup Jump Shot (13 PTS),59,65,2026-04-29
+0042500175,2026,4,3,PT00M46.90S,1610612747,LAL,2544,James,Missed Shot,Cutting Layup Shot,Missed,2,4,36,-1,MISS L. James 4' Cutting Layup Shot,,,2026-04-29
+0042500175,2026,4,4,PT09M39.00S,1610612747,LAL,2544,James,Made Shot,Driving Floating Jump Shot,Made,2,4,4,41,L. James 4' Driving Floating Jump Shot (16 PTS),71,82,2026-04-29
+0042500175,2026,4,4,PT06M49.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Jump Shot,Missed,2,5,-37,38,MISS L. James 5' Turnaround Jump Shot,,,2026-04-29
+0042500175,2026,4,4,PT05M04.00S,1610612747,LAL,2544,James,Made Shot,Running Layup Shot,Made,2,2,-11,15,L. James 2' Running Layup (21 PTS),78,87,2026-04-29
+0042500175,2026,4,4,PT04M05.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,25,-29,245,MISS L. James 25' 3PT Jump Shot,,,2026-04-29
+0042500175,2026,4,4,PT02M59.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,2,5,16,L. James 2' Driving Layup (23 PTS) (Kennard 2 AST),85,88,2026-04-29
+0042500175,2026,4,4,PT02M00.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,2,10,16,L. James 2' Driving Layup (25 PTS),87,92,2026-04-29
+0042500175,2026,4,4,PT00M27.90S,1610612747,LAL,2544,James,Missed Shot,Running Jump Shot,Missed,3,30,148,262,MISS L. James 30' 3PT Running Jump Shot,,,2026-04-29
+0042500175,2026,4,4,PT00M12.40S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,28,-105,264,MISS L. James 28' 3PT Pullup Jump Shot,,,2026-04-29
+0042500176,2026,4,1,PT11M21.00S,1610612747,LAL,2544,James,Made Shot,Driving Finger Roll Layup Shot,Made,2,3,4,25,L. James 3' Driving Finger Roll Layup (2 PTS),3,2,2026-05-01
+0042500176,2026,4,1,PT08M54.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,4,-37,14,L. James 4' Driving Layup (4 PTS) (Hachimura 1 AST),7,6,2026-05-01
+0042500176,2026,4,1,PT08M02.00S,1610612747,LAL,2544,James,Missed Shot,Driving Finger Roll Layup Shot,Missed,2,6,-56,22,MISS L. James 6' Driving Finger Roll Layup,,,2026-05-01
+0042500176,2026,4,1,PT07M05.00S,1610612747,LAL,2544,James,Missed Shot,Reverse Layup Shot,Missed,2,4,-36,17,MISS L. James 4' Reverse Layup,,,2026-05-01
+0042500176,2026,4,1,PT00M50.60S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,24,232,59,MISS L. James 24' 3PT Jump Shot,,,2026-05-01
+0042500176,2026,4,1,PT00M00.50S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,13,-51,119,MISS L. James 13' Turnaround Fadeaway Shot,,,2026-05-01
+0042500176,2026,4,2,PT11M09.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Fadeaway shot,Made,2,11,-86,61,L. James 11' Turnaround Fadeaway (6 PTS),18,25,2026-05-01
+0042500176,2026,4,2,PT10M19.00S,1610612747,LAL,2544,James,Made Shot,Step Back Jump shot,Made,3,25,-15,248,L. James 25' 3PT Step Back Jump Shot (9 PTS),18,30,2026-05-01
+0042500176,2026,4,2,PT09M26.00S,1610612747,LAL,2544,James,Made Shot,Driving Finger Roll Layup Shot,Made,2,5,-40,24,L. James 5' Driving Finger Roll Layup (11 PTS),18,32,2026-05-01
+0042500176,2026,4,2,PT08M02.00S,1610612747,LAL,2544,James,Made Shot,Running Layup Shot,Made,2,3,-28,16,L. James 3' Running Layup (13 PTS),19,38,2026-05-01
+0042500176,2026,4,2,PT05M49.00S,1610612747,LAL,2544,James,Missed Shot,Layup Shot,Missed,2,3,-21,19,MISS L. James 3' Layup,,,2026-05-01
+0042500176,2026,4,2,PT02M47.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,13,-78,98,MISS L. James 13' Driving Floating Jump Shot,,,2026-05-01
+0042500176,2026,4,2,PT00M53.60S,1610612747,LAL,2544,James,Made Shot,Running Pull-Up Jump Shot,Made,3,24,-217,109,L. James 24' 3PT Running Pull-Up Jump Shot (18 PTS) (Reaves 2 AST),31,49,2026-05-01
+0042500176,2026,4,2,PT00M23.70S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,26,-163,198,MISS L. James 26' 3PT Jump Shot,,,2026-05-01
+0042500176,2026,4,3,PT11M42.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Fadeaway shot,Made,2,13,69,110,L. James 13' Turnaround Fadeaway (20 PTS),31,51,2026-05-01
+0042500176,2026,4,3,PT10M37.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,27,-138,230,MISS L. James 27' 3PT Jump Shot,,,2026-05-01
+0042500176,2026,4,3,PT08M58.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Hook Shot,Missed,2,8,31,70,MISS L. James 8' Turnaround Hook Shot,,,2026-05-01
+0042500176,2026,4,3,PT07M40.00S,1610612747,LAL,2544,James,Missed Shot,Running Dunk Shot,Missed,2,4,42,13,MISS L. James 4' Running Dunk,,,2026-05-01
+0042500176,2026,4,3,PT05M10.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Jump Shot,Missed,2,14,-56,127,MISS L. James 14' Turnaround Jump Shot,,,2026-05-01
+0042500176,2026,4,3,PT00M01.80S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,13,-42,128,MISS L. James 13' Turnaround Fadeaway Shot,,,2026-05-01
+0042500176,2026,4,4,PT10M51.00S,1610612747,LAL,2544,James,Made Shot,Driving Hook Shot,Made,2,5,-20,44,L. James 5' Driving Hook Shot (24 PTS),57,76,2026-05-01
+0042500176,2026,4,4,PT09M40.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Bank Hook Shot,Missed,2,6,-61,18,MISS L. James 6' Turnaround Bank Hook Shot,,,2026-05-01
+0042500176,2026,4,4,PT09M06.00S,1610612747,LAL,2544,James,Missed Shot,Tip Layup Shot,Missed,2,0,0,0,MISS L. James Tip Layup Shot,,,2026-05-01
+0042500176,2026,4,4,PT08M22.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,11,100,39,MISS L. James 11' Turnaround Fadeaway Shot,,,2026-05-01
+0042500176,2026,4,4,PT06M06.00S,1610612747,LAL,2544,James,Made Shot,Driving Finger Roll Layup Shot,Made,2,4,-37,21,L. James 4' Driving Finger Roll Layup (26 PTS) (Kennard 3 AST),62,83,2026-05-01
+0042500221,2026,4,1,PT11M46.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,1,4,6,L. James 1' Driving Layup (2 PTS) (Ayton 1 AST),0,2,2026-05-05
+0042500221,2026,4,1,PT11M19.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,6,15,58,MISS L. James 6' Driving Floating Jump Shot,,,2026-05-05
+0042500221,2026,4,1,PT10M51.00S,1610612747,LAL,2544,James,Made Shot,Running Pull-Up Jump Shot,Made,3,27,-164,210,L. James 27' 3PT Running Pull-Up Jump Shot (5 PTS),0,7,2026-05-05
+0042500221,2026,4,1,PT07M52.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,3,23,-232,-20,L. James 3PT Pullup Jump Shot (8 PTS) (Smart 1 AST),12,14,2026-05-05
+0042500221,2026,4,1,PT06M56.00S,1610612747,LAL,2544,James,Made Shot,Driving Floating Jump Shot,Made,2,4,18,33,L. James 4' Driving Floating Jump Shot (10 PTS) (Hachimura 1 AST),16,16,2026-05-05
+0042500221,2026,4,1,PT06M23.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,23,227,11,MISS L. James 3PT Jump Shot,,,2026-05-05
+0042500221,2026,4,1,PT04M25.00S,1610612747,LAL,2544,James,Made Shot,Running Dunk Shot,Made,2,1,-1,12,L. James 1' Running Dunk (12 PTS) (Ayton 2 AST),17,20,2026-05-05
+0042500221,2026,4,2,PT11M24.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,26,-23,260,MISS L. James 26' 3PT Jump Shot,,,2026-05-05
+0042500221,2026,4,2,PT01M20.00S,1610612747,LAL,2544,James,Made Shot,Running Dunk Shot,Made,2,2,-5,16,L. James 2' Running Dunk (14 PTS),58,51,2026-05-05
+0042500221,2026,4,2,PT00M54.30S,1610612747,LAL,2544,James,Made Shot,Layup Shot,Made,2,1,5,8,L. James 1' Layup (16 PTS) (Smart 5 AST),58,53,2026-05-05
+0042500221,2026,4,2,PT00M00.30S,1610612747,LAL,2544,James,Missed Shot,Alley Oop Layup shot,Missed,2,3,-23,15,MISS L. James 3' Alley Oop Layup,,,2026-05-05
+0042500221,2026,4,3,PT04M16.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,2,23,-4,L. James 2' Driving Layup (18 PTS) (Hayes 1 AST),76,67,2026-05-05
+0042500221,2026,4,3,PT02M08.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Fadeaway shot,Made,2,16,-156,52,L. James 16' Turnaround Fadeaway (20 PTS),78,70,2026-05-05
+0042500221,2026,4,3,PT01M04.00S,1610612747,LAL,2544,James,Made Shot,Putback Layup Shot,Made,2,1,7,0,L. James 1' Putback Layup (22 PTS),80,72,2026-05-05
+0042500221,2026,4,4,PT09M35.00S,1610612747,LAL,2544,James,Missed Shot,Running Jump Shot,Missed,3,26,-195,178,MISS L. James 26' 3PT Running Jump Shot,,,2026-05-05
+0042500221,2026,4,4,PT07M47.00S,1610612747,LAL,2544,James,Made Shot,Cutting Dunk Shot,Made,2,0,2,1,L. James Cutting Dunk Shot (24 PTS) (Reaves 5 AST),96,79,2026-05-05
+0042500221,2026,4,4,PT02M39.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,3,23,233,17,L. James 3PT Jump Shot (27 PTS) (Hachimura 2 AST),101,87,2026-05-05
+0042500222,2026,4,1,PT08M09.00S,1610612747,LAL,2544,James,Made Shot,Cutting Layup Shot,Made,2,1,10,7,L. James 1' Cutting Layup Shot (2 PTS) (Smart 2 AST),9,4,2026-05-07
+0042500222,2026,4,1,PT07M41.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,30,-157,252,MISS L. James 30' 3PT Jump Shot,,,2026-05-07
+0042500222,2026,4,1,PT07M03.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,2,21,-205,7,MISS L. James 21' Jump Shot,,,2026-05-07
+0042500222,2026,4,1,PT06M16.00S,1610612747,LAL,2544,James,Missed Shot,Running Alley Oop Layup Shot,Missed,2,3,32,11,MISS L. James 3' Running Alley Oop Layup Shot,,,2026-05-07
+0042500222,2026,4,1,PT04M52.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,1,4,12,L. James 1' Driving Layup (4 PTS),16,11,2026-05-07
+0042500222,2026,4,1,PT01M09.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,12,-53,106,MISS L. James 12' Driving Floating Jump Shot,,,2026-05-07
+0042500222,2026,4,1,PT00M25.20S,1610612747,LAL,2544,James,Made Shot,Running Layup Shot,Made,2,1,-11,8,L. James 1' Running Layup (6 PTS) (LaRavia 1 AST),27,20,2026-05-07
+0042500222,2026,4,2,PT00M47.30S,1610612747,LAL,2544,James,Made Shot,Alley Oop Dunk Shot,Made,2,1,4,13,L. James 1' Alley Oop Dunk (10 PTS) (Reaves 2 AST),55,56,2026-05-07
+0042500222,2026,4,3,PT10M19.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,11,-59,93,MISS L. James 11' Turnaround Fadeaway Shot,,,2026-05-07
+0042500222,2026,4,3,PT06M55.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,2,18,-31,173,L. James 18' Pullup Jump Shot (12 PTS),70,71,2026-05-07
+0042500222,2026,4,3,PT05M43.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,25,45,245,MISS L. James 25' 3PT Jump Shot,,,2026-05-07
+0042500222,2026,4,3,PT04M32.00S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,25,-146,204,MISS L. James 25' 3PT Pullup Jump Shot,,,2026-05-07
+0042500222,2026,4,3,PT00M32.20S,1610612747,LAL,2544,James,Made Shot,Cutting Layup Shot,Made,2,2,-22,-4,L. James 2' Cutting Layup Shot (14 PTS) (Reaves 5 AST),91,80,2026-05-07
+0042500222,2026,4,4,PT09M20.00S,1610612747,LAL,2544,James,Made Shot,Driving Floating Bank Jump Shot,Made,2,6,-60,20,L. James 6' Driving Floating Bank Jump Shot (16 PTS) (Smart 5 AST),95,86,2026-05-07
+0042500222,2026,4,4,PT08M58.00S,1610612747,LAL,2544,James,Made Shot,Step Back Jump shot,Made,3,26,66,250,L. James 26' 3PT Step Back Jump Shot (19 PTS),95,89,2026-05-07
+0042500222,2026,4,4,PT07M36.00S,1610612747,LAL,2544,James,Made Shot,Driving Floating Bank Jump Shot,Made,2,7,-61,34,L. James 7' Driving Floating Bank Jump Shot (21 PTS) (Hachimura 2 AST),99,94,2026-05-07
+0042500222,2026,4,4,PT06M07.00S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,2,8,-77,10,MISS L. James 8' Pullup Jump Shot,,,2026-05-07
+0042500222,2026,4,4,PT05M00.00S,1610612747,LAL,2544,James,Missed Shot,Layup Shot,Missed,2,3,-25,6,MISS L. James 3' Layup,,,2026-05-07
+0042500223,2026,4,1,PT09M31.00S,1610612747,LAL,2544,James,Made Shot,Driving Floating Jump Shot,Made,2,7,-13,68,L. James 7' Driving Floating Jump Shot (2 PTS),5,6,2026-05-09
+0042500223,2026,4,1,PT08M06.00S,1610612747,LAL,2544,James,Missed Shot,Running Alley Oop Dunk Shot,Missed,2,3,22,18,MISS L. James 3' Running Alley Oop Dunk Shot,,,2026-05-09
+0042500223,2026,4,1,PT07M15.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,2,23,-38,227,L. James 23' Jump Shot (4 PTS) (Reaves 2 AST),12,10,2026-05-09
+0042500223,2026,4,1,PT05M55.00S,1610612747,LAL,2544,James,Missed Shot,Fadeaway Jump Shot,Missed,2,11,-23,107,MISS L. James 11' Fadeaway Jumper,,,2026-05-09
+0042500223,2026,4,1,PT05M41.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Hook Shot,Missed,2,8,-20,80,MISS L. James 8' Turnaround Hook Shot,,,2026-05-09
+0042500223,2026,4,1,PT00M03.10S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,59,-25,588,MISS L. James 59' 3PT Pullup Jump Shot,,,2026-05-09
+0042500223,2026,4,2,PT08M15.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,24,-232,57,MISS L. James 24' 3PT Jump Shot,,,2026-05-09
+0042500223,2026,4,2,PT07M03.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,3,26,227,121,L. James 26' 3PT Jump Shot (7 PTS) (Kennard 1 AST),38,42,2026-05-09
+0042500223,2026,4,2,PT05M33.00S,1610612747,LAL,2544,James,Made Shot,Step Back Jump shot,Made,3,27,-184,195,L. James 27' 3PT Step Back Jump Shot (10 PTS),44,44,2026-05-09
+0042500223,2026,4,2,PT04M54.00S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Jump Shot,Missed,2,7,0,65,MISS L. James 7' Driving Floating Jump Shot,,,2026-05-09
+0042500223,2026,4,2,PT04M44.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,23,-234,16,MISS L. James 3PT Jump Shot,,,2026-05-09
+0042500223,2026,4,2,PT01M08.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Hook Shot,Missed,2,5,7,52,MISS L. James 5' Turnaround Hook Shot,,,2026-05-09
+0042500223,2026,4,3,PT09M18.00S,1610612747,LAL,2544,James,Missed Shot,Running Layup Shot,Missed,2,4,9,34,MISS L. James 4' Running Layup,,,2026-05-09
+0042500223,2026,4,3,PT08M59.00S,1610612747,LAL,2544,James,Missed Shot,Running Pull-Up Jump Shot,Missed,2,2,-17,14,MISS L. James 2' Running Pull-Up Jump Shot,,,2026-05-09
+0042500223,2026,4,3,PT05M14.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,2,14,105,88,L. James 14' Jump Shot (12 PTS) (Hachimura 3 AST),67,78,2026-05-09
+0042500223,2026,4,3,PT00M01.90S,1610612747,LAL,2544,James,Missed Shot,Fadeaway Jump Shot,Missed,2,12,9,122,MISS L. James 12' Fadeaway Jumper,,,2026-05-09
+0042500223,2026,4,4,PT11M34.00S,1610612747,LAL,2544,James,Made Shot,Driving Layup Shot,Made,2,1,12,8,L. James 1' Driving Layup (14 PTS),81,92,2026-05-09
+0042500223,2026,4,4,PT07M09.00S,1610612747,LAL,2544,James,Made Shot,Cutting Finger Roll Layup Shot,Made,2,1,-7,13,L. James 1' Cutting Finger Roll Layup Shot (18 PTS) (Smart 3 AST),93,108,2026-05-09
+0042500223,2026,4,4,PT03M50.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,26,152,213,MISS L. James 26' 3PT Jump Shot,,,2026-05-09
+0042500224,2026,4,1,PT11M34.00S,1610612747,LAL,2544,James,Missed Shot,Driving Hook Shot,Missed,2,5,-27,42,MISS L. James 5' Driving Hook Shot,,,2026-05-11
+0042500224,2026,4,1,PT11M03.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,27,-175,210,MISS L. James 27' 3PT Jump Shot,,,2026-05-11
+0042500224,2026,4,1,PT07M19.00S,1610612747,LAL,2544,James,Missed Shot,Driving Layup Shot,Missed,2,3,-2,29,MISS L. James 3' Driving Layup,,,2026-05-11
+0042500224,2026,4,1,PT05M53.00S,1610612747,LAL,2544,James,Made Shot,Turnaround Fadeaway shot,Made,2,14,-51,125,L. James 14' Turnaround Fadeaway (4 PTS),13,14,2026-05-11
+0042500224,2026,4,1,PT04M18.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,28,-124,248,MISS L. James 28' 3PT Jump Shot,,,2026-05-11
+0042500224,2026,4,1,PT00M44.20S,1610612747,LAL,2544,James,Made Shot,Fadeaway Jump Shot,Made,2,13,96,90,L. James 13' Fadeaway Jumper (6 PTS),24,21,2026-05-11
+0042500224,2026,4,2,PT06M50.00S,1610612747,LAL,2544,James,Missed Shot,Cutting Layup Shot,Missed,2,4,-18,32,MISS L. James 4' Cutting Layup Shot,,,2026-05-11
+0042500224,2026,4,2,PT06M11.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Jump Shot,Missed,2,14,129,64,MISS L. James 14' Turnaround Jump Shot,,,2026-05-11
+0042500224,2026,4,2,PT00M39.50S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,2,18,-83,157,L. James 18' Pullup Jump Shot (10 PTS),43,48,2026-05-11
+0042500224,2026,4,3,PT05M39.00S,1610612747,LAL,2544,James,Made Shot,Jump Shot,Made,3,26,192,179,L. James 26' 3PT Jump Shot (14 PTS) (Hayes 1 AST),61,68,2026-05-11
+0042500224,2026,4,3,PT04M24.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,3,27,-54,260,L. James 27' 3PT Pullup Jump Shot (17 PTS),66,71,2026-05-11
+0042500224,2026,4,3,PT03M50.00S,1610612747,LAL,2544,James,Missed Shot,Pullup Jump shot,Missed,3,27,-234,141,MISS L. James 27' 3PT Pullup Jump Shot,,,2026-05-11
+0042500224,2026,4,4,PT09M46.00S,1610612747,LAL,2544,James,Made Shot,Pullup Jump shot,Made,2,7,-69,27,L. James 7' Pullup Jump Shot (20 PTS),87,82,2026-05-11
+0042500224,2026,4,4,PT09M08.00S,1610612747,LAL,2544,James,Missed Shot,Turnaround Fadeaway shot,Missed,2,14,-43,136,MISS L. James 14' Turnaround Fadeaway Shot,,,2026-05-11
+0042500224,2026,4,4,PT08M40.00S,1610612747,LAL,2544,James,Made Shot,Running Finger Roll Layup Shot,Made,2,3,18,-20,L. James 3' Running Finger Roll Layup (22 PTS) (Smart 3 AST),89,84,2026-05-11
+0042500224,2026,4,4,PT04M19.00S,1610612747,LAL,2544,James,Made Shot,Driving Dunk Shot,Made,2,2,2,17,L. James 2' Driving Dunk (24 PTS),98,99,2026-05-11
+0042500224,2026,4,4,PT01M46.00S,1610612747,LAL,2544,James,Missed Shot,Jump Shot,Missed,3,24,-69,234,MISS L. James 24' 3PT Jump Shot,,,2026-05-11
+0042500224,2026,4,4,PT00M20.30S,1610612747,LAL,2544,James,Missed Shot,Driving Floating Bank Jump Shot,Missed,2,6,54,20,MISS L. James 6' Driving Floating Bank Jump Shot,,,2026-05-11
