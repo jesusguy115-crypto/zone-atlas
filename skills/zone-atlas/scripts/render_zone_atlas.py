@@ -71,33 +71,38 @@ en_x=200*S;en_tracking=2.0*S
 for ch in job['name_en']:
  ImageDraw.Draw(side).text((round(en_x),166*S),ch,font=en_font,fill='#a39fa2',anchor='la')
  en_x+=en_font.getlength(ch)+en_tracking
-for j,(label,value) in enumerate([('身高',(f"{job['height_cm']:g} cm" if job.get('height_cm') is not None else '—')),('体重',(f"{job['weight_kg']:g} kg" if job.get('weight_kg') is not None else '—')),('年龄',f'{age}岁' if age is not None else '—'),(job['league']+'球龄',f"第{job['league_season_number']}季" if job.get('league_season_number') else '—')]):
+for j,(label,value) in enumerate([('身高',(f"{job['height_cm']:g} cm" if job.get('height_cm') is not None else '—')),('体重',(f"{job['weight_kg']:g} kg" if job.get('weight_kg') is not None else '—')),('年龄',str(age) if age is not None else '—'),(job['league']+'球龄',str(job['league_season_number']) if job.get('league_season_number') else '—')]):
  x=202+j*121
  st(x,205,label,14,'#9e999d');st(x,229,value,23,'#e1dfe0','bold')
  if j<3:line(side,[(x+105,209),(x+105,254)],'#343437',.7)
 hline(281)
-st(48,305,job['season_label'],30,weight='bold');st(682,305,job['record_label'],21,'#d2ced1',anchor='ra')
-st(48,345,job['scope_label'],20,'#b9b4b8');st(682,345,job['date_label'],18,'#b9b4b8',anchor='ra')
-hline(384)
+# Compact date-only band; the space saved gives the region rows more air.
+date_label=job['date_label']
+if '—' in date_label:
+ left,right=map(str.strip,date_label.split('—',1))
+ if len(right)==5 and len(left)>=10:right=left[:5]+right
+ date_label=left+' — '+right
+st(48,304,'比赛日期：'+date_label,18,'#c6c2c5')
+hline(345)
 # Four independent columns: attempts, makes, misses, FG percentage.
-st(48,410,job.get('attempt_label','坐标出手' if job.get('missing_coordinate_attempts',0) else '出手'),19,'#aaa6a9')
-poly(side,[(220,418),(229,418),(229,427),(220,427)],'#e52b4a');st(239,410,'命中',19,'#aaa6a9')
-poly(side,[(386,418),(395,418),(395,427),(386,427)],'#ede9e3');st(405,410,'未中',19,'#aaa6a9')
-st(550,410,'投篮命中率',19,'#aaa6a9')
-for x in [194,360,524]:line(side,[(x,412),(x,503)],'#353437',.8)
-st(48,450,str(len(rows)),54,weight='number')
-st(220,450,str(job['expected_made']),54,weight='number')
-st(386,450,str(len(rows)-job['expected_made']),54,weight='number')
-st(550,450,f"{100*job['expected_made']/len(rows):.1f}%",54,weight='number')
-hline(526)
-st(48,536,'投篮区域',29,weight='bold');st(683,545,'命中 / 出手',18,'#bdb8bb',anchor='ra')
+st(48,374,job.get('attempt_label','坐标出手' if job.get('missing_coordinate_attempts',0) else '出手'),19,'#aaa6a9')
+poly(side,[(220,382),(229,382),(229,391),(220,391)],'#e52b4a');st(239,374,'命中',19,'#aaa6a9')
+poly(side,[(386,382),(395,382),(395,391),(386,391)],'#ede9e3');st(405,374,'未中',19,'#aaa6a9')
+st(550,374,'投篮命中率',19,'#aaa6a9')
+for x in [194,360,524]:line(side,[(x,376),(x,467)],'#353437',.8)
+st(48,414,str(len(rows)),54,weight='number')
+st(220,414,str(job['expected_made']),54,weight='number')
+st(386,414,str(len(rows)-job['expected_made']),54,weight='number')
+st(550,414,f"{100*job['expected_made']/len(rows):.1f}%",54,weight='number')
+hline(490)
+st(48,500,'投篮区域',29,weight='bold');st(683,509,'命中 / 出手',18,'#bdb8bb',anchor='ra')
 # Sidebar uses the same five rules as the ten-zone court.
 from zone_geometry import coarse as zone
 coarse_side=np.zeros((5,2),int)
 for r in rows:coarse_side[zone(r),0 if r['shot_result']=='Made' else 1]+=1
 names=['篮下','短两分','长两分','弧顶及侧翼三分','底角三分'];scale=max(coarse_side.sum(1));max_width=635
 for i,(label,(m,miss)) in enumerate(zip(names,coarse_side)):
- y=584+i*74;n=int(m+miss);st(48,y,label,23,weight='bold');st(683,y-2,f'{m} / {n}',28,weight='number',anchor='ra')
+ y=548+i*80;n=int(m+miss);st(48,y,label,23,weight='bold');st(683,y-2,f'{m} / {n}',28,weight='number',anchor='ra')
  width=max_width*n/scale if n else 0;by=(y+38)*S;bh=14*S
  if n:
   mask=Image.new('L',(round(width*S),bh));ImageDraw.Draw(mask).rounded_rectangle((0,0,mask.width-1,bh-1),radius=bh/2,fill=255)
@@ -201,12 +206,12 @@ for sg in [-1,1]:
  angle=math.pi/2+sg*math.radians(22)
  line(chart,[xy(THREE*math.cos(angle),THREE*math.sin(angle)),xy((LENGTH-INSET)/math.sin(angle)*math.cos(angle),LENGTH-INSET)],soft,.7)
 # Compact reference-style legends: efficiency colors and shot frequency sizes.
-text(chart,(820,921),'低于均值',21,palette[0],'bold','lm')
+text(chart,(1134,921),'低于均值',12,palette[0],'bold','lm')
 for j,c in enumerate(palette):
- poly(chart,arc_points(952+j*27,921,13,math.pi/6,2*math.pi+math.pi/6,7)[:-1],c,'#e9e4df',.6)
-text(chart,(1090,921),'高于均值',21,palette[-1],'bold','lm')
-text(chart,(1490,921),'出手频次',18,'#bdb9bc','regular','lm')
-for j,r in enumerate([4,6,9,12]):poly(chart,arc_points(1620+j*34,921,r,math.pi/6,2*math.pi+math.pi/6,7)[:-1],'#c9c7c5')
+ poly(chart,arc_points(1201+j*17,921,7.2,math.pi/6,2*math.pi+math.pi/6,7)[:-1],c,'#e9e4df',.6)
+text(chart,(1287,921),'高于均值',12,palette[-1],'bold','lm')
+text(chart,(1399,921),'出手频次',12,'#bdb9bc','regular','lm')
+for j,r in enumerate([3,4.8,7.2,9.6]):poly(chart,arc_points(1462+j*18,921,r,math.pi/6,2*math.pi+math.pi/6,7)[:-1],'#c9c7c5')
 # Labels sit within their corresponding spatial areas; the rim uses a short callout.
 placements=[(10.8,-.2),(0,8.5),(15.2,11.0),(0,19.4),(-15.2,11.0),(18.2,27.5),(0,33.7),(-18.2,27.5),(23.5,2.7),(-23.5,2.7)]
 cards=[]
